@@ -6,6 +6,45 @@ This document holds up-to-date information on all things Exclusive.
 * [Match dates and times in Jödö league](https://www.jodo.ee/results-center)
 
 
+## Line-ups
+### Exclusive
+| Name             |
+| ---------------- |
+| Martin Einblau   |
+| Heimar Kalpus    |
+| Marko Raid       |
+| Roman Rozbroj    |
+| Silver Kerna     |
+| Kristi Rickberg  |
+| Kristjan Pint    |
+| Raul Hanson      |
+| Valentin Itsenko |
+| Tanel Aruja      |
+| Marek Poom       |
+| Argo Jeletsky    |
+| Sven Paulson     |
+
+### 2-Exclusive
+| Name            |
+| --------------- |
+| Kimmo Lillipuu  |
+| Martti Klesment |
+| Kristo Klesment |
+| Marti Laidre    |
+| Mattias Oja     |
+| Triinu Mustonen |
+| Reimo Liiv      |
+| Jaan Tarmak     |
+| Liina Nöörlaid  |
+| Kristo Busch    |
+| Mikk Ventsel    |
+| Karl Toomet     |
+| Kaarel Tamme    |
+| Brita Porovarde |
+| Raido Kaasik    |
+| Koit Kangur     |
+| Denis Savсhenko |
+
 ## Formations
 
 * FL is **F**orward **L**eft

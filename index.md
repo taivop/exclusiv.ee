@@ -8,42 +8,44 @@ This document holds up-to-date information on all things Exclusive.
 
 ## Line-ups
 ### Exclusive
-| Name             |
-| ---------------- |
-| Martin Einblau   |
-| Heimar Kalpus    |
-| Marko Raid       |
-| Roman Rozbroj    |
-| Silver Kerna     |
-| Kristi Rickberg  |
-| Kristjan Pint    |
-| Raul Hanson      |
-| Valentin Itsenko |
-| Tanel Aruja      |
-| Marek Poom       |
-| Argo Jeletsky    |
-| Sven Paulson     |
+
+| Name             | Position |
+| ---------------- | -------- |
+| Martin Einblau   |          |
+| Heimar Kalpus    |          |
+| Marko Raid       |          |
+| Roman Rozbroj    |          |
+| Silver Kerna     |          |
+| Kristi Rickberg  |          |
+| Kristjan Pint    |          |
+| Raul Hanson      |          |
+| Valentin Itsenko |          |
+| Tanel Aruja      |          |
+| Marek Poom       |          |
+| Argo Jeletsky    |          |
+| Sven Paulson     | GK       |
 
 ### 2-Exclusive
-| Name            |
-| --------------- |
-| Kimmo Lillipuu  |
-| Martti Klesment |
-| Kristo Klesment |
-| Marti Laidre    |
-| Mattias Oja     |
-| Triinu Mustonen |
-| Reimo Liiv      |
-| Jaan Tarmak     |
-| Liina Nöörlaid  |
-| Kristo Busch    |
-| Mikk Ventsel    |
-| Karl Toomet     |
-| Kaarel Tamme    |
-| Brita Porovarde |
-| Raido Kaasik    |
-| Koit Kangur     |
-| Denis Savсhenko |
+
+| Name            | Position |
+| --------------- | -------- |
+| Kimmo Lillipuu  |          |
+| Martti Klesment |          |
+| Kristo Klesment |          |
+| Marti Laidre    |          |
+| Mattias Oja     |          |
+| Triinu Mustonen |          |
+| Reimo Liiv      |          |
+| Jaan Tarmak     |          |
+| Liina Nöörlaid  |          |
+| Kristo Busch    |          |
+| Mikk Ventsel    |          |
+| Karl Toomet     |          |
+| Kaarel Tamme    |          |
+| Brita Porovarde |          |
+| Raido Kaasik    |          |
+| Koit Kangur     |          |
+| Denis Savсhenko | GK       |
 
 ## Formations
 

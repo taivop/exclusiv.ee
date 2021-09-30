@@ -8,29 +8,29 @@ This document holds up-to-date information on all things Exclusive.
 
 ## Formations
 
--   FL is **F**orward **L**eft
--   FR is **F**orward **R**ight
--   CC is **C**enter
--   DL is **D**efence **L**eft
--   DR is **D**efence **R**ight
+* FL is **F**orward **L**eft
+* FR is **F**orward **R**ight
+* CC is **C**enter
+* DL is **D**efence **L**eft
+* DR is **D**efence **R**ight
 
 ### Across-the-field defence: 1-2-2
 
 The right forward will **always** be the top one. The center and the other forward will stay a bit lower.
 
-![[cross-field-1-2-2.png]]
+![](cross-field-1-2-2.png)
 
 ### Own-side defence: 2-1-2
 
 We play like the "5" on a die (täring).
 
-![[own-side-2-1-2.png]]
+![](own-side-2-1-2.png)
 
 ### Transition from across-the-field to own-side defence
 
 The center (CC) moves to... the center, and the right forward (FR) moves to the top right position, and we'll be back in the correct formation.
 
-![[cross-field-to-own-side.png]]
+![](cross-field-to-own-side.png)
 
 ## Tactics
 
@@ -42,8 +42,8 @@ We don't rush the ball up immediately. Instead, the two defenders and center pas
 
 The forwards don't stand still; they keep running around and switching sides to open up space.
 
-![[triangle-in-the-back.png]]
+![](triangle-in-the-back.png)
 
 The triangle moves around to get maximum free space. It can be inverted if there is enough space in the center: in this case the defenders are a bit lower and the center is the tip of the triangle:
 
-![[triangle-in-the-back-2.png]]
+![](triangle-in-the-back-2.png)

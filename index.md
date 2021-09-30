@@ -1,7 +1,3 @@
-# Exclusive floorball
-
-{:toc}
-
 ## Introduction
 
 This document holds up-to-date information on all things Exclusive.

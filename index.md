@@ -1,5 +1,3 @@
-## Exclusive Sports Club
-
 This document holds up-to-date information on all things Exclusive.
 
 * [Training sign-up sheet](https://docs.google.com/spreadsheets/d/1-8pfj0shv6NbSPw79kbuiMgRmklzm7G7/edit#gid=595667172)

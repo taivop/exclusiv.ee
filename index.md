@@ -1,8 +1,16 @@
+## Exclusive Sports Club
 
 This document holds up-to-date information on all things Exclusive.
 
 * [Training sign-up sheet](https://docs.google.com/spreadsheets/d/1-8pfj0shv6NbSPw79kbuiMgRmklzm7G7/edit#gid=595667172)
 * [Match dates and times in Jödö league](https://www.jodo.ee/results-center)
+
+### Payment information:
+* Palun sinult makset summas 33,00 EUR 
+* Saaja: SPORDIKLUBI EXCLUSIVE ESTONIA
+* Konto: EE247700771006586129
+* Selgitus: Toetus - oktoober 
+* Maksa mobiili- või internetipangas https://www.lhv.ee/et/al/?nWLDsk6b
 
 
 ## Line-ups

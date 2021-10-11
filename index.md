@@ -8,7 +8,7 @@ This document holds up-to-date information on all things Exclusive.
 * Saaja: SPORDIKLUBI EXCLUSIVE ESTONIA
 * Konto: EE247700771006586129
 * Selgitus: Toetus - oktoober 
-* Maksa mobiili- või internetipangas https://www.lhv.ee/et/al/?nWLDsk6b
+* Maksa mobiili- või internetipangas: [https://www.lhv.ee/et/al/?nWLDsk6b](https://www.lhv.ee/et/al/?nWLDsk6b) 
 
 
 ## Line-ups

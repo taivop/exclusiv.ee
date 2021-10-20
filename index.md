@@ -64,19 +64,19 @@ This document holds up-to-date information on all things Exclusive.
 
 The right forward will **always** be the top one. The center and the other forward will stay a bit lower.
 
-![](cross-field-1-2-2.png)
+![](cross-field-1-2-2.svg)
 
 ### Own-side defence: 2-1-2
 
 We play like the "5" on a die (täring).
 
-![](own-side-2-1-2.png)
+![](own-side-2-1-2.svg)
 
 ### Transition from across-the-field to own-side defence
 
 The center (CC) moves to... the center, and the right forward (FR) moves to the top right position, and we'll be back in the correct formation.
 
-![](cross-field-to-own-side.png)
+![](cross-field-to-own-side.svg)
 
 ## Tactics
 

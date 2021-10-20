@@ -52,13 +52,15 @@ This document holds up-to-date information on all things Exclusive.
 | Koit Kangur     |          |
 | Denis Savсhenko | GK       |
 
-## Formations
+# Formations and tactics
 
 * FL is **F**orward **L**eft
 * FR is **F**orward **R**ight
 * CC is **C**enter
 * DL is **D**efence **L**eft
 * DR is **D**efence **R**ight
+
+## Defending
 
 ### Across-the-field defence: 1-2-2
 
@@ -78,7 +80,7 @@ The center (CC) moves to... the center, and the right forward (FR) moves to the 
 
 ![](cross-field-to-own-side.svg)
 
-## Tactics
+## Attacking
 
 ### Building the game
 
